@@ -23,5 +23,3 @@ Vantage adds value signals to your bidding. Block removes invalid traffic. Lift 
 - Website: [tapper.ai](https://tapper.ai)
 - Docs: [docs.tapper.ai](https://docs.tapper.ai)
 - Support: [support.tapper.ai](https://support.tapper.ai)
-
-Most of our code is private. The public repositories here are the Google Tag Manager templates that add the Tapper tracking script to a site and record its conversions.
